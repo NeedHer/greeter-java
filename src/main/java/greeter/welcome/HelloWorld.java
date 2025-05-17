@@ -1,4 +1,4 @@
-package greeter.hello;
+package greeter.welcome;
 
 public class HelloWorld {
   private final String name;

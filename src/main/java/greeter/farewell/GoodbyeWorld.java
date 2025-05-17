@@ -1,4 +1,4 @@
-package greeter.goodbye;
+package greeter.farewell;
 
 public class GoodbyeWorld {
   private final String name;
